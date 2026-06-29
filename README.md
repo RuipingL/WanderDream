@@ -1,6 +1,6 @@
 <div align="center">
 
-# WanderDream
+# WanderDream (ECCV 2026)
 
 ### What If? Emulative Simulation with World Models for Situated Reasoning
 
